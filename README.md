@@ -93,6 +93,13 @@ pip install -r requirements.txt
 
 streamlit run scamshield_app.py
 
+## Demo Video
+
+YouTube Demo:
+https://youtu.be/v6XIG7gHydQ?si=pBFmRlHwcOlE8y91
+
+
+
 
 
 ---
